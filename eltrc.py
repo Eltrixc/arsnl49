@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
  
 # Header
-st.header('Rizky Setyawan :sparkles:')
+st.header('Rizky :sparkles:')
 st.subheader('220322601527')
 st.subheader('Plot')
  
