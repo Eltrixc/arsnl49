@@ -1,4 +1,4 @@
-yawa# Rizky Setyawan 
+# Rizky Setyawan 
 # 220322601527
 
 import numpy as np
