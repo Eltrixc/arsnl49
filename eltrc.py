@@ -1,4 +1,4 @@
-# Rizky Setyawan 
+yawa# Rizky Setyawan 
 # 220322601527
 
 import numpy as np
@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
  
 # Header
-st.header('Rizky :sparkles:')
+st.header('Rizky Setyawan :sparkles:')
 st.subheader('220322601527')
 st.subheader('Plot')
  
